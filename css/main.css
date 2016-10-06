@@ -186,7 +186,7 @@ th {
 body {
   position: relative;
   font-family: "Microsoft YaHei", Verdana, sans-serif;
-  font-size: 20px;
+  font-size: 23px;
   line-height: 2;
   color: #555;
   background: #fff;
@@ -1017,7 +1017,7 @@ pre .javascript .function {
 .post-body .figure .caption {
   margin: 10px auto 15px;
   text-align: center;
-  font-size: 20px;
+  font-size: 23px;
   color: #999;
   font-weight: bold;
   line-height: 1;
@@ -1549,7 +1549,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #86aa5e;
+  background: #df9a87;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2294,10 +2294,10 @@ body {
   float: right;
 }
 header {
-  width: 90%;
+  width: 80%;
 }
 .container .main-inner {
-  width: 90%;
+  width: 80%;
 }
 .content-wrap {
   width: calc(100% - 260px);
