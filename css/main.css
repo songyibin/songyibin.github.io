@@ -1549,7 +1549,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7c78ff;
+  background: #377dff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2300,7 +2300,7 @@ header {
   width: 85%;
 }
 .content-wrap {
-  width: calc(100% - 260px);
+  width: calc(100% - 220px);
 }
 .site-meta {
   padding: 20px 0;
